@@ -99,7 +99,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Super Attractive 😍)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/sawandahare/sawandahare/blob/output/github-contribution-grid-snake.svg" />
