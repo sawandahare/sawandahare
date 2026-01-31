@@ -1,7 +1,9 @@
 ![logo](https://github.com/sawandahare/sawandahare/blob/main/github-header-banner.png)
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+SAWAN+DAHARE;FullStack+Developer+Here+🚀;Java+SpringBoot+%7C+React+%7C+MySQL;Let’s+Build+Something+Awesome!&center=true&size=30">
+    <img width="100%"
+      src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+SAWAN+DAHARE;Full+Stack+Developer+🚀;Java+|+SpringBoot+|+React;MySQL+|+REST+APIs+|+Cloud&center=true&size=16&duration=3000">
   </a>
 </h1>
 
