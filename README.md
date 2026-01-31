@@ -2,8 +2,8 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img width="60%"
-      src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+SAWAN+DAHARE;Full+Stack+Developer+🚀;Java+|+SpringBoot+|+React;MySQL+|+REST+APIs+|+Cloud&center=true&size=16&duration=3000">
+    <img width="70%"
+      src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+SAWAN+DAHARE;Full+Stack+Developer+🚀;Java+|+SpringBoot+|+React;MySQL+|+REST+APIs+|+Cloud&center=true&size=18&duration=3000">
   </a>
 </h1>
 
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 ---
 
@@ -60,7 +60,7 @@
 
 ### 🚀 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,cpp " />
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,cs&perline=10" />
 </p>
 
 ### 🎨 Frontend
@@ -85,6 +85,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sawandahare&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
 ## 📊 My GitHub Stats
 
 <p align="center">
@@ -98,6 +106,40 @@
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawandahare&layout=compact&theme=algolia&hide_border=true&langs_count=10" />
+</p>
+
+---
+
+## 📌 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sawandahare&theme=algolia" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sawandahare&theme=algolia" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sawandahare&theme=algolia&utcOffset=5.5" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawandahare&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/sawandahare/Blood_Blank_Management_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sawandahare&repo=Blood_Blank_Management_System&theme=algolia&hide_border=true" />
+  </a>
+  <a href="https://github.com/sawandahare/Plant-Disease-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sawandahare&repo=Plant-Disease-Detection&theme=algolia&hide_border=true" />
+  </a>
 </p>
 
 ---
@@ -116,4 +158,8 @@
   <a href="https://www.buymeacoffee.com/sawandahare">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="190" alt="sawandahare" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:1E90FF&height=120&section=footer"/>
 </p>
