@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+SAWAN+DAHARE;  FullStack+Developer+Here+🚀; Java+SpringBoot+%7C+React+%7C+MySQL;Let’s+Build+Something+Awesome!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+SAWAN+DAHARE;FullStack+Developer+Here+🚀;Java+SpringBoot+%7C+React+%7C+MySQL;Let’s+Build+Something+Awesome!&center=true&size=30">
   </a>
 </h1>
 
@@ -57,7 +57,7 @@
 
 ### 🚀 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,cpp " />
 </p>
 
 ### 🎨 Frontend
@@ -99,7 +99,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Super Attractive 😍)
 
 <p align="center">
   <img src="https://github.com/sawandahare/sawandahare/blob/output/github-contribution-grid-snake.svg" />
